@@ -68,9 +68,8 @@ ORDER BY
   max_vaccinated DESC;
 
 
--- Vaccination vs Infection Trend in Indonesia
--- Comparing vaccination and infection trends in Indonesia
-
+-- Vaccination vs Infection Trend
+-- Comparing vaccination and infection trends
 SELECT 
 	A.location,
     A.date, 
